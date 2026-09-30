@@ -126,7 +126,8 @@ revenue-analytics-portfolio-demo/
 
 ```bash
 # Clone or navigate to the directory
-cd /Users/donatasstarkus/Developer/revenue-analytics-portfolio-demo
+git clone https://github.com/donatobatai/revenue-intelligence-demo.git
+cd revenue-intelligence-demo
 
 # Install dependencies (if not already installed)
 npm install
